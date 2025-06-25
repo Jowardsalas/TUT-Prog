@@ -19,7 +19,7 @@ Algoritmo triangulo
 
 	escribir "   "
 	escribir "**************************************************************"
-	escribir "              El AREA del TRIANGULO es de " ba/2 "cm².        "
+	escribir "              El AREA del TRIANGULO es de " ba/2 "cmÂ².        "
 	escribir "**************************************************************"
 	
 FinAlgoritmo
