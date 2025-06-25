@@ -2,7 +2,7 @@
  Este ejercicio  debe solicitar dos números y la operación que desea 
 realizar (suma, resta, multiplicación o división). Luego, calculará y 
 mostrará el resultado correspondiente según la operación 
-seleccionada.
+seleccionada.//
 
 
 Algoritmo calculadora
