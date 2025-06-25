@@ -10,19 +10,19 @@ Algoritmo calculadora
 //solicita al usuario ingresar el tipo de operacion, si escoge otro numero, muestra mensaje de error
 	Repetir
 		escribir "   "
-		Escribir  "縌ue tipo de operaci髇 desea realizar?"
+		Escribir  "驴Que tipo de operaci贸n desea realizar?"
 		Escribir  "1 = SUMA    2 = RESTA    3 = MULTIPLICACION    4 = DIVISION"
 		Leer operacion
 		si operacion >= 5 Entonces
 			escribir "   "
 			escribir "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-			escribir "ERROR: la opci髇 seleccionada no es correcta, vuelva a intentarlo."
+			escribir "ERROR: la opci贸n seleccionada no es correcta, vuelva a intentarlo."
 			escribir "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 		SiNo
 			si operacion <= 0 Entonces
 				escribir "   "
 				escribir "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
-				escribir "ERROR: la opci髇 seleccionada no es correcta, vuelva a intentarlo."
+				escribir "ERROR: la opci贸n seleccionada no es correcta, vuelva a intentarlo."
 				escribir "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 		Fin Si
 	FinSi
@@ -30,11 +30,11 @@ Algoritmo calculadora
 	
 //solicita ingresar los datos de la operacion
 	escribir "---------------------------------------------------"
-	Escribir "Por favor ingrese el primer numero de la operaci髇:"
+	Escribir "Por favor ingrese el primer numero de la operaci贸n:"
 	Leer num1
 	
 	escribir "---------------------------------------------------"
-	Escribir "Por favor ingrese segundo numero de la operaci髇:"
+	Escribir "Por favor ingrese segundo numero de la operaci贸n:"
 	leer num2
 	
 //segun la operacion seleccionada, se ejecutara la operacion correspondiente.
