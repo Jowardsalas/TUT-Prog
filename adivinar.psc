@@ -8,7 +8,7 @@ Algoritmo adivinar
 	escribir "----------------------------------------------------------------"
 	escribir "                       INICIEMOS EL JUEGO                       "
 	escribir "----------------------------------------------------------------"
-	escribir "¿Adivina en que numero estoy pensando?."
+	escribir "Â¿Adivina en que numero estoy pensando?."
 	Escribir "   "
 	
 //solicitamos al usuario que adivine el numero
