@@ -1,6 +1,6 @@
 ## Trabajo Intregador Final
 ## Integrantes del equipo
--Jowared Salas
+-Joward Salas
 
 -Matias Salinas
 
