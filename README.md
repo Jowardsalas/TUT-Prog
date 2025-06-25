@@ -15,7 +15,7 @@ Programacion.
 ## Programa Utilizado
 PseInt
 ## Descripción
-Breve descripción del TFI.
+
 
 En el siguiente TFI, se trabajo con 10 requerimientos desarrollados con PSint.
 
