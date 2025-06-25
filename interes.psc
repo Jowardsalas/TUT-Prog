@@ -19,10 +19,10 @@ Algoritmo interes
 	escribir "Por favor ingrese la cantidad de DIAS:"
 	leer tiempo
 	
-//formula de Interés Simple = Capital * Tasa de interés diaria * Número de días
+//formula de InterÃ©s Simple = Capital * Tasa de interÃ©s diaria * NÃºmero de dÃ­as
 	escribir "   "
 	escribir "******************************************************"
-	escribir "El INTERES de $" capital " en " tiempo " días es de: $" capital*tasad*tiempo
+	escribir "El INTERES de $" capital " en " tiempo " dÃ­as es de: $" capital*tasad*tiempo
 	escribir "******************************************************"
 	
 FinAlgoritmo
