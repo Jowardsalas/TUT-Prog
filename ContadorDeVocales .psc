@@ -1,10 +1,16 @@
 Proceso ContadorDeVocales
+// Definimos las variables.
+
     Definir frase Como Cadena
     Definir i, contador Como Entero
     Definir letra Como Caracter
-	
+
+ // Inicia el contador de vocales en cero.
+
     contador <- 0
-	
+
+// ingresar una palabra o frase.	
+
     Escribir "Ingrese una palabra o frase:"
     Leer frase
 	
