@@ -14,7 +14,7 @@ Algoritmo triangulo
 	escribir "Por favor ingrese el valor (cm) de la ALTURA del triangulo:"
 	leer num2
 	
-//formula del area de un triangulo
+//formula del area de un triangulo ((base*altura)/2)
 	ba = num1*num2
 
 	escribir "   "
