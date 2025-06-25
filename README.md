@@ -16,13 +16,19 @@ Programacion.
 PseInt
 ## Descripción
 Breve descripción del TFI.
+
 En el siguiente TFI, se trabajo con 10 requerimientos desarrollados con PSint.
 
--Se genera estructura del algoritmo
+-Se genera estructura del algoritmo.
+
 -Se genero declaracion de variables del tipo "Definir","Entero","Real", entre otros.
+
 -Se colocaron entradas y salida de datos,"Leer","Escribir".
+
 -Se utilizaron estructuras de control del tipo condicional del tipo "SI", "entonces".
+
 -Se utilizaron estructuras de control del tipo Bucle "mientras","Fin Para", entre otros.
+
 
 
 Se generaron las siguientes aplicaciones: 
