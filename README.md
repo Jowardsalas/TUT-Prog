@@ -31,7 +31,10 @@ En el siguiente TFI, se trabajo con 10 requerimientos desarrollados con PSint.
 
 
 
-Se generaron las siguientes aplicaciones: 
+
+
+Aplicaciones desarrolladas:
+
 
 Calculadora > solcitar dos numeros y poder realizar operaciones aritmeticas.
 
