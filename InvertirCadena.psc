@@ -4,15 +4,16 @@ Proceso InvertirCadena
     Definir i Como Entero
     
     Escribir "Ingrese una palabra o frase:"
-    Leer frase   // Leemos la frase que ingresa el usuario
+    // Leemos la frase que ingresa el usuario
+    Leer frase   
     
-    // Inicializamos la cadena invertida como vacía
+    // Inicializamos la cadena invertida como vacÃ­a
     fraseInvertida <- ""
     
-    // Recorremos la frase desde el último carácter hacia el primero
+    // Recorremos la frase desde el Ãºltimo carÃ¡cter hacia el primero
+    // Agregamos cada carÃ¡cter de la frase al principio de 'fraseInvertida'
     Para i <- Longitud(frase) Hasta 1 Con Paso -1
-        // Agregamos cada carácter de la frase al principio de 'fraseInvertida'
-        fraseInvertida <- fraseInvertida + SubCadena(frase, i, i)
+                fraseInvertida <- fraseInvertida + SubCadena(frase, i, i)
     FinPara
     
     // Mostramos la cadena invertida
