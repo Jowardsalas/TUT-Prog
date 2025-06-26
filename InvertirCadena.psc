@@ -2,9 +2,9 @@ Proceso InvertirCadena
     // Definir variables
     Definir frase, fraseInvertida Como Cadena
     Definir i Como Entero
-    
+
+    //Se indica ingresar una frase y luego se lee
     Escribir "Ingrese una palabra o frase:"
-    // Leemos la frase que ingresa el usuario
     Leer frase   
     
     // Inicializamos la cadena invertida como vacía
