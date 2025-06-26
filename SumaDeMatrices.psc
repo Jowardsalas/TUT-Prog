@@ -2,7 +2,7 @@ Algoritmo SumaDeMatrices
 	
 	Definir filas, columnas, i, j Como Entero
 	
-	///Pedidp de dimencion al usuario.
+	///Ingresar dimencion de la matriz.
 	Escribir "Ingrese numero de filas de las matrices:"
 	Leer filas
 	Escribir "Ingrese numero de columnas de las matrices:"
