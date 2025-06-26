@@ -9,53 +9,51 @@
 -Roberto Aguiar
 
 ## Carrera
-Tecnicatura en Telecomunicaciones.(TUT).
+Tecnicatura Universitaria en Telecomunicaciones.(TUT).
 ## Materia
-Programacion.
+Programación.
 ## Programa Utilizado
 PseInt
 ## Descripción
+#
 
+En este Trabajo Final Integrador (TFI), se desarrollaron 10 requerimientos utilizando PSeInt. Para ello, se implementaron diversas características fundamentales de la programación:
 
-En el siguiente TFI, se trabajo con 10 requerimientos desarrollados con PSint.
+Estructura del algoritmo: Se generó la lógica y el flujo de cada programa.
 
--Se genera estructura del algoritmo.
+Declaración de variables: Se utilizaron diferentes tipos de datos, como "Definir", "Entero" y "Real", entre otros.
 
--Se genero declaracion de variables del tipo "Definir","Entero","Real", entre otros.
+Entrada y salida de datos: Se implementaron las funciones "Leer" para la entrada de datos por parte del usuario y "Escribir" para mostrar resultados en pantalla.
 
--Se colocaron entradas y salida de datos,"Leer","Escribir".
+Estructuras de control condicionales: Se empleó la estructura "Si...Entonces" para tomar decisiones basadas en condiciones.
 
--Se utilizaron estructuras de control del tipo condicional del tipo "SI", "entonces".
+Estructuras de control de bucle: Se utilizaron bucles como "Mientras" y "Para" para repetir bloques de código.
 
--Se utilizaron estructuras de control del tipo Bucle "mientras","Fin Para", entre otros.
-
-
-
-
-
-Aplicaciones desarrolladas:
-
-
-Calculadora > solcitar dos numeros y poder realizar operaciones aritmeticas.
-
-Pomedio > ingresar una cantidad indefinida de números y luego calcular el promedio, se finaliza con un numero negativo.
-
-Contador de vocales > Arroja la cantidad de vocales de una frase, sea en mayusculas o minusculas.
-
-Invertir > Se ingresa un texto y debe retornar invertido.
-
-Suma de Matrices > Crea dos matrices y calcula la suma de ambas, mostrando el resultado.
-
-Triángulo > se calcula el area de un triangulo.
-
-Tabla de multiplicar > se ingresa un numero y este se debe multiplicar de 1 hasta 20, indicando el resultado de cada operacion.
-
-Pirámide > se ingresa un numero y debe generarse una piramide de numeros hasta llegar al numero.
-
-Interés > se solicita calcular interes con la siguiente formula "interés = capital * tasa * tiempo".
-
-Adivinar >  Genera un número aleatorio entre 1 y 25 y permite al usuario adivinarlo. Se utiliza la funcion AZAR.
+#
+#
 
 
 
+Aplicaciones Desarrolladas:
 
+-Calculadora: Solicita dos números y permite realizar operaciones aritméticas básicas.
+
+-Promedio: Permite ingresar una cantidad indefinida de números hasta que se introduce un número negativo, momento en el que calcula y muestra el promedio de los números ingresados.
+
+-Contador de Vocales: Determina y muestra la cantidad total de vocales (tanto en mayúsculas como en minúsculas) presentes en una frase ingresada por el usuario.
+
+-Invertir: Recibe un texto y lo devuelve invertido.
+
+-Suma de Matrices: Crea dos matrices, calcula la suma de ambas y muestra la matriz resultante.
+
+-Triángulo: Calcula el área de un triángulo a partir de sus dimensiones.
+
+-Tabla de Multiplicar: Recibe un número y genera su tabla de multiplicar del 1 al 20, mostrando el resultado de cada operación.
+
+-Pirámide: Solicita un número y genera una pirámide numérica ascendente hasta alcanzar el número ingresado.
+
+-Interés: Calcula el interés utilizando la fórmula: interés = capital * tasa * tiempo.
+
+-Adivinar: Genera un número aleatorio entre 1 y 25 y permite al usuario intentar adivinarlo. Para la generación del número aleatorio, se utiliza la función AZAR.
+#
+#
