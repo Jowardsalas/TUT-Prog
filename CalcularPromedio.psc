@@ -1,4 +1,6 @@
 Algoritmo CalcularPromedio
+
+    //Definimos Variables.
     Definir numero, suma, contador Como Entero;
     Definir promedio Como Real;
     
