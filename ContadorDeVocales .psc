@@ -13,9 +13,11 @@ Proceso ContadorDeVocales
 
     Escribir "Ingrese una palabra o frase:"
     Leer frase
-	
+
+// Recorre cada caracter de la frase.	
     Para i <- 1 Hasta Longitud(frase)
         letra <- SubCadena(frase, i, i)
+// Convierte el caracter a minúscula.
         letra <- Minusculas(letra)  
         Si letra = "a" O letra = "e" O letra = "i" O letra = "o" O letra = "u" Entonces
             contador <- contador + 1
